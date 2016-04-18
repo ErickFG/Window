@@ -1,0 +1,16 @@
+c:\users\erick\documents\visual studio 2013\Projects\ventana\ventana\bin\Debug\ventana.exe.config
+c:\users\erick\documents\visual studio 2013\Projects\ventana\ventana\bin\Debug\ventana.exe
+c:\users\erick\documents\visual studio 2013\Projects\ventana\ventana\bin\Debug\ventana.pdb
+c:\users\erick\documents\visual studio 2013\Projects\ventana\ventana\obj\Debug\ventana.csprojResolveAssemblyReference.cache
+c:\users\erick\documents\visual studio 2013\Projects\ventana\ventana\obj\Debug\MainWindow.baml
+c:\users\erick\documents\visual studio 2013\Projects\ventana\ventana\obj\Debug\MainWindow.g.cs
+c:\users\erick\documents\visual studio 2013\Projects\ventana\ventana\obj\Debug\App.g.cs
+c:\users\erick\documents\visual studio 2013\Projects\ventana\ventana\obj\Debug\ventana_MarkupCompile.cache
+c:\users\erick\documents\visual studio 2013\Projects\ventana\ventana\obj\Debug\ventana.g.resources
+c:\users\erick\documents\visual studio 2013\Projects\ventana\ventana\obj\Debug\ventana.Properties.Resources.resources
+c:\users\erick\documents\visual studio 2013\Projects\ventana\ventana\obj\Debug\ventana.csproj.GenerateResource.Cache
+c:\users\erick\documents\visual studio 2013\Projects\ventana\ventana\obj\Debug\ventana.exe
+c:\users\erick\documents\visual studio 2013\Projects\ventana\ventana\obj\Debug\ventana.pdb
+C:\Users\Erick\Desktop\ventana\ventana\bin\Debug\ventana.exe.config
+C:\Users\Erick\Desktop\ventana\ventana\obj\Debug\ventana.exe
+C:\Users\Erick\Desktop\ventana\ventana\obj\Debug\ventana.pdb
